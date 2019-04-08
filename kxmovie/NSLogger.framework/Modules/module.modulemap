@@ -1,0 +1,6 @@
+framework module NSLogger {
+  umbrella header "NSLogger.h"
+
+  export *
+  module * { export * }
+}
